@@ -35,5 +35,7 @@ Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebook, Power BI
 
 ## Dashboard
 <img width="1920" height="1080" alt="job_market_dashboard" src="https://github.com/user-attachments/assets/3bdcb96c-96ad-45a8-b445-db60b18d1380" />
+
+
 ## Cropped Dashboard
 <img width="1323" height="746" alt="job_market_dashboard_cropped" src="https://github.com/user-attachments/assets/bce0c105-661c-4b8c-ace4-4fbccbdb3550" />
